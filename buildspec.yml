@@ -19,4 +19,4 @@ phases:
       - echo "we are in the post build phase"
 artifacts:
   files:
-     - static-webpage-test/static-webpage-to-gi/SourceArtif
+     - static-webpage-test/static-webpage-to-gi/SourceArti
